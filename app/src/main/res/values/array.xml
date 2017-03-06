@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="planes">
+        <item>@drawable/_1</item>
+        <item>@drawable/_2</item>
+        <item>@drawable/_3</item>
+        <item>@drawable/_4</item>
+        <item>@drawable/_5</item>
+        <item>@drawable/_6</item>
+        <item>@drawable/_7</item>
+        <item>@drawable/_8</item>
+        <item>@drawable/_9</item>
+        <item>@drawable/_10</item>
+        <item>@drawable/_11</item>
+        <item>@drawable/_12</item>
+        <item>@drawable/_13</item>
+        <item>@drawable/_14</item>
+        <item>@drawable/_15</item>
+        <item>@drawable/_16</item>
+        <item>@drawable/_17</item>
+        <item>@drawable/_18</item>
+        <item>@drawable/_19</item>
+        <item>@drawable/_20</item>
+        <item>@drawable/_21</item>
+        <item>@drawable/_22</item>
+        <item>@drawable/_23</item>
+        <item>@drawable/_24</item>
+        <item>@drawable/_25</item>
+        <item>@drawable/_26</item>
+        <item>@drawable/_27</item>
+        <item>@drawable/_28</item>
+        <item>@drawable/_29</item>
+        <item>@drawable/_30</item>
+        <item>@drawable/_31</item>
+        <item>@drawable/_32</item>
+        <item>@drawable/_33</item>
+        <item>@drawable/_34</item>
+        <item>@drawable/_35</item>
+        <item>@drawable/_36</item>
+        <item>@drawable/_37</item>
+        <item>@drawable/_38</item>
+        <item>@drawable/_39</item>
+        <item>@drawable/_40</item>
+        <item>@drawable/_41</item>
+        <item>@drawable/_42</item>
+    </array>
+</resources>
