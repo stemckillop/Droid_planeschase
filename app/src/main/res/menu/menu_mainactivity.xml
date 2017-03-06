@@ -4,5 +4,7 @@
     <item android:title="New Game"
         android:id="@+id/menu_btnnewgame" />
     <item android:title="Undo Planeswalk"
-        android:id="@+id/menu_btnundoplanes" />
+        android:id="@+id/menu_btnundo" />
+    <item android:title="Back to menu"
+        android:id="@+id/menu_btnback" />
 </menu>
